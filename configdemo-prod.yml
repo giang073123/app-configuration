@@ -1,5 +1,5 @@
 build:
   id: 3030303
   version: 3000001.2.3
-  name: "Updated git Application"
+  name: "Update git Application"
   type: "Git Application Build"
